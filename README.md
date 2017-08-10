@@ -1,3 +1,6 @@
-# My Awesome Book
+# Principled Architecture
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book aims to describe some high-level principles that can be used to develop sustainable software and community.
+
+
+
