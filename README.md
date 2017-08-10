@@ -10,7 +10,7 @@ Imagine building a house. There are a lot of decisions and steps along the way. 
 
 > Little boxes on the hillside,
 >
->  Little boxes made of ticky tacky,
+> Little boxes made of ticky tacky,
 >
 > -- Malvina Reynolds
 
@@ -19,6 +19,10 @@ Imagine building a house. There are a lot of decisions and steps along the way. 
 The first house, we'll call the Ticky Tacky House. The developer of the Ticky Tacky House wants first and foremost to build cheaply, so they can build as many houses as possible. They source cheap materials, labor, and a large tract of land sold at auciton. The Ticky Tacky House developer uses a generic template to build the house, nearly identical to other houses in the neigborhood. Little thought is given to energy efficiency and consumption for the occupants of the house.The Ticky Tacky House is build to last around 30-40 years before significant repairs are needed, or otherwise the house should be demolished and built anew.
 
 ### Situated House
+
+> “We abuse land because we see it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect.”
+>
+> [Aldo Leopold](https://www.goodreads.com/author/show/43828.Aldo_Leopold)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Torvetua_eco-village_%283255728058%29.jpg/1024px-Torvetua_eco-village_%283255728058%29.jpg)Image by SuSanA Secretariat \[[CC BY 2.0](http://creativecommons.org/licenses/by/2.0)\]
 
