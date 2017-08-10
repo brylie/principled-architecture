@@ -8,6 +8,12 @@ Imagine building a house. There are a lot of decisions and steps along the way. 
 
 ### Ticky-Tacky House
 
+> Little boxes on the hillside,
+>
+>  Little boxes made of ticky tacky,
+>
+> -- Malvina Reynolds
+
 ![](https://upload.wikimedia.org/wikipedia/commons/6/64/LevittownPA.jpg)
 
 The first house, we'll call the Ticky Tacky House. The developer of the Ticky Tacky House wants first and foremost to build cheaply, so they can build as many houses as possible. They source cheap materials, labor, and a large tract of land sold at auciton. The Ticky Tacky House developer uses a generic template to build the house, nearly identical to other houses in the neigborhood. Little thought is given to energy efficiency and consumption for the occupants of the house.The Ticky Tacky House is build to last around 30-40 years before significant repairs are needed, or otherwise the house should be demolished and built anew.
