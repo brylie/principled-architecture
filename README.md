@@ -9,9 +9,7 @@ Imagine building a house. There are a lot of decisions and steps along the way. 
 ### Ticky-Tacky House
 
 > Little boxes on the hillside,
->
 > Little boxes made of ticky tacky,
->
 > -- Malvina Reynolds
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/64/LevittownPA.jpg)
