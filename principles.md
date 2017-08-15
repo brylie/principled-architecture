@@ -36,6 +36,8 @@ We live in an interconnected web of life. As such, community has played a critic
 
 ## Diversity
 
+Diversity is welcoming of various qualities and viewpoints. We realize there is no 'one size fits all'. What is right for one person, project, organization, or community may not be 'the right fit' elsewhere.
+
 ## Inclusion
 
 ## Communication
