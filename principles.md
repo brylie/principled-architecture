@@ -44,7 +44,7 @@ Diversity is welcoming of various qualities and viewpoints. We realize there is 
 
 ## Inclusion
 
-Inclusion means allowing outside persons to participate freely in our community endeavors. We embrace their skills, interests, and opinions, treating them as peers.
+Inclusion means allowing outside persons to participate freely in our community endeavors. We embrace their skills, interests, and opinions, treating them as valued peers.
 
 ## Communication
 
