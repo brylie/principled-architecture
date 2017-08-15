@@ -1,4 +1,12 @@
 # Honesty
 
+## 
+
+## Openness
+
+
+
+## Clarity
+
 
 
