@@ -5,5 +5,5 @@
 * [Cleanliness](cleanliness.md)
 * [Honesty](honesty.md)
 * [Commmunity](commmunity.md)
-* Heritage
+* [Stewardship](stewardship.md)
 
