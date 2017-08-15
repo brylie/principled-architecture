@@ -30,6 +30,10 @@ Openness means opening up whata might otherwise be inaccessible to others. Wheth
 
 Clarity is the light that evaporates the mists of confusion and doubt. We can be clear about our goals and intentions, as well as communicating as clearly as possible to those around us. This extends to how we plan and manage our projects as well as how we write source code.
 
+## Consistency
+
+Consistency helps us find familiarity in a changing environment. We learn patterns of action and design, and can recognize or reproduce those patterns with increasing ease.
+
 ## Community
 
 We live in an interconnected web of life. As such, community has played a critical role in our evolution as a species. We need community to thrive and transcent our capabilities as individuals. As software developers, it is important we emerse ourselves in communities of practice, to improve our skills and commonwealth.
