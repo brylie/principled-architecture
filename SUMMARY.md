@@ -4,6 +4,6 @@
 * [Simplicity](simplicity.md)
 * [Cleanliness](cleanliness.md)
 * [Honesty](honesty.md)
-* Commmunity
+* [Commmunity](commmunity.md)
 * Heritage
 
