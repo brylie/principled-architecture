@@ -36,7 +36,7 @@ Consistency helps us find familiarity in a changing environment. We learn patter
 
 ## Community
 
-We live in an interconnected web of life. As such, community has played a critical role in our evolution as a species. We need community to thrive and transcent our capabilities as individuals. As software developers, it is important we emerse ourselves in communities of practice, to improve our skills and commonwealth.
+We live in an interconnected web of life. As such, community has played a critical role in our evolution as a species. We need community to thrive and transcent our capabilities as individuals. As software developers, it is important we seek out and emerse ourselves in communities of practice, to improve our skills and commonwealth.
 
 ## Diversity
 
