@@ -6,4 +6,5 @@
 * [Honesty](honesty.md)
 * [Commmunity](commmunity.md)
 * [Stewardship](stewardship.md)
+* Purpose
 
