@@ -1,10 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Simplicity](simplicity.md)
-* [Cleanliness](cleanliness.md)
-* [Honesty](honesty.md)
-* [Commmunity](commmunity.md)
-* [Stewardship](stewardship.md)
-* [Purpose](purpose.md)
+* [Principles](principles.md)
 
