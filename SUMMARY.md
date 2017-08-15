@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Simplicity](simplicity.md)
 * [Cleanliness](cleanliness.md)
-* Honesty
+* [Honesty](honesty.md)
 * Commmunity
 * Heritage
 
