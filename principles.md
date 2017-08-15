@@ -32,7 +32,7 @@ Clarity is the light that evaporates the mists of confusion and doubt. We can be
 
 ## Consistency
 
-Consistency helps us find familiarity in a changing environment. We learn patterns of action and design, and can recognize or reproduce those patterns with increasing ease.
+Consistency helps us find familiarity in a changing environment. We learn patterns of action and design, and can recognize or reproduce those patterns with increasing ease. We should also be aware of the limits of consistency, to allow ourselves to adapt to new situations or challenges.
 
 ## Community
 
