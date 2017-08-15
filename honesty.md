@@ -8,5 +8,5 @@ Openness means opening up whata might otherwise be inaccessible to others. Wheth
 
 ## Clarity
 
-
+Clarity is the light that evaporates the mists of confusion and doubt. We can be clear about our goals and intentions, as well as communicating as clearly as possible to those around us. This extends to how we plan and manage our projects as well as how we write source code.
 
