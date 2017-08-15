@@ -1,12 +1,10 @@
 # Community
 
-
-
 ## Diversity
 
-
-
 ## Inclusion
+
+## Communication
 
 
 
